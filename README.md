@@ -9,7 +9,7 @@ The dashboard simulates IoT devices streaming live data such as temperature, bat
 - **JWT-based authentication** (Admin/User roles)
 - **Real-time IoT metrics** using WebSockets
 - **Chart visualizations** with Chart.js
-- **Export reports** as PDF or CSV for the last 24 hours
+- **Export reports** as CSV for the last 24 hours
 - **Role-based access control**
 - **Mock IoT device simulation** for demo purposes
 
