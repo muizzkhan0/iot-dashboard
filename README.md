@@ -10,7 +10,7 @@ The dashboard simulates IoT devices streaming live data such as temperature, bat
 - **Real-time IoT metrics** using WebSockets
 - **Chart visualizations** with Chart.js
 - **Export reports** as CSV for the last 24 hours
-- **Role-based access control**
+- **Role-based access control** admin vs regular user
 - **Mock IoT device simulation** for demo purposes
 
 ---
@@ -50,7 +50,7 @@ cd backend
 npm install
 ```
 
-## 3. Environment Variables
+### 3. Environment Variables
 You’ll need to create .env files in the backend/ folder.
 This file is not included in the repo for security reasons.
 ```bash
@@ -59,8 +59,11 @@ PORT=4000
 ORIGIN=http://localhost:5173
 ```
 
+---
+
 ## Run the app
 In two separate terminals:
+
 Backend:
 ```bash
 cd backend
@@ -70,5 +73,5 @@ npm start
 Frontend:
 ```bash
 cd frontend
-npm start
+npm run dev
 ```
