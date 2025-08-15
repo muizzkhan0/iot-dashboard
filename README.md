@@ -55,6 +55,20 @@ You’ll need to create .env files in the backend/ folder.
 This file is not included in the repo for security reasons.
 ```bash
 JWT_SECRET=your_secret_here
-PORT=<server port here>
-ORIGIN=http://localhost:<client port here>
+PORT=4000
+ORIGIN=http://localhost:5173
+```
+
+## Run the app
+In two separate terminals:
+Backend:
+```bash
+cd backend
+npm start
+```
+
+Frontend:
+```bash
+cd frontend
+npm start
 ```
