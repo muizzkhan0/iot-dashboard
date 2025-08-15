@@ -41,12 +41,12 @@ cd iot-dashboard
 ### 2. Install dependencies
 Frontend:
 ```bash
-cd frontend
+cd client
 npm install
 ```
 Backend:
 ```bash
-cd backend
+cd server
 npm install
 ```
 
@@ -66,12 +66,12 @@ In two separate terminals:
 
 Backend:
 ```bash
-cd backend
+cd server
 npm start
 ```
 
 Frontend:
 ```bash
-cd frontend
+cd client
 npm run dev
 ```
