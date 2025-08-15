@@ -35,5 +35,26 @@ The dashboard simulates IoT devices streaming live data such as temperature, bat
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/iot-dashboard.git
+git clone https://github.com/muizzkhan0/iot-dashboard.git
 cd iot-dashboard
+```
+### 2. Install dependencies
+Frontend:
+```bash
+cd frontend
+npm install
+```
+Backend:
+```bash
+cd backend
+npm install
+```
+
+## 3. Environment Variables
+You’ll need to create .env files in the backend/ folder.
+This file is not included in the repo for security reasons.
+```bash
+JWT_SECRET=your_secret_here
+PORT=<server port here>
+ORIGIN=http://localhost:<client port here>
+```
