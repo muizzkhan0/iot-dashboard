@@ -7,7 +7,7 @@ The dashboard simulates IoT devices streaming live data such as temperature, bat
 https://youtu.be/8Z8ytru3QFM
 <p align="center">
   <a href="https://youtu.be/8Z8ytru3QFM">
-    <img src="https://img.youtube.com/vi/8Z8ytru3QFM.jpg" alt="Watch the video" />
+    <img src="https://img.youtube.com/vi/8Z8ytru3QFM/0.jpg" alt="Watch the video" />
   </a>
 </p>
 ---
