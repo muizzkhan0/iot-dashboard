@@ -3,6 +3,13 @@
 A real-time web dashboard for monitoring IoT device metrics, built with **React** (frontend) and **Node.js** + **Express** (backend).  
 The dashboard simulates IoT devices streaming live data such as temperature, battery level, and device status, updates charts in real-time, and supports authentication, reporting, and role-based access.
 
+### Demo
+https://youtu.be/8Z8ytru3QFM
+<p align="center">
+  <a href="https://youtu.be/8Z8ytru3QFM">
+    <img src="https://img.youtube.com/vi/8Z8ytru3QFM.jpg" alt="Watch the video" />
+  </a>
+</p>
 ---
 
 ## Features
